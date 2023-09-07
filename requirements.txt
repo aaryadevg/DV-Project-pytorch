@@ -1,0 +1,2 @@
+torch==2.0.0+cu118
+matplotlib==3.6.3
